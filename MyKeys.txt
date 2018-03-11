@@ -1,0 +1,10 @@
+
+Twitter Keys for xbucketlist  User
+Application Settings
+Keep the "Consumer Secret" a secret. This key should never be human-readable in your application.
+Consumer Key (API Key)	zyEweb2qN5iodnDXYpW0hzrbk
+Consumer Secret (API Secret)	Exe8z5nYOTjs8awZXctIqkl1aZQExi4an352LEZd4lODSIty6J
+Access Level	Read and write (modify app permissions)
+Owner	admXbucketlist
+Owner ID	971971755559460872
+
